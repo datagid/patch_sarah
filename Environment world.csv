@@ -1,0 +1,677 @@
+Most searched issue,Country,Revenues,Online sales,In-store,Rental,Year
+Drought,Portugal,88,12,1,3,2020
+Drought,Somalia,66,0,0,0,2020
+Drought,Brazil,53,17,1,3,2020
+Drought,Mozambique,47,39,0,0,2020
+Flood,Zimbabwe,29,47,0,16,2020
+Drought,Angola,28,17,0,0,2020
+Flood,Namibia,26,37,0,0,2020
+Drought,Israel,25,11,1,2,2020
+Flood,Ethiopia,23,27,0,12,2020
+Flood,South Africa,22,33,2,11,2020
+Flood,Norway,18,19,0,0,2020
+Flood,Bolivia,12,31,0,19,2020
+Flood,Cameroon,11,26,0,0,2020
+Flood,Kenya,11,20,2,4,2020
+Flood,Luxembourg,10,32,0,0,2020
+Flood,El Salvador,10,30,5,17,2020
+Flood,Algeria,10,17,7,10,2020
+Flood,Uganda,10,23,0,0,2020
+Flood,Honduras,9,25,0,10,2020
+Water pollution,Morocco,9,11,6,13,2020
+Flood,Costa Rica,9,26,0,6,2020
+Flood,Poland,9,13,0,1,2020
+Flood,Iran,8,40,0,3,2020
+Flood,Jamaica,8,54,0,15,2020
+Flood,Australia,8,87,1,3,2020
+Flood,France,8,28,0,1,2020
+Flood,China,7,24,0,9,2020
+Flood,Nicaragua,7,24,0,11,2020
+Flood,Panama,7,31,0,14,2020
+Flood,Peru,7,24,2,14,2020
+Flood,Sudan,7,11,5,6,2020
+Flood,Oman,7,18,7,10,2020
+Flood,Guatemala,6,19,0,16,2020
+Flood,Sri Lanka,6,45,0,5,2020
+Flood,United States,6,68,1,3,2020
+Flood,Spain,6,14,1,1,2020
+Flood,Ecuador,6,19,4,9,2020
+Flood,Paraguay,6,21,0,9,2020
+Water pollution,Lebanon,6,13,0,17,2020
+Flood,New Zealand,6,82,0,6,2020
+Flood,Sweden,6,10,0,0,2020
+Flood,Czech Republic,6,16,0,1,2020
+Flood,Moldova,6,11,0,6,2020
+Flood,Tanzania,5,25,0,8,2020
+Water pollution,Saudi Arabia,5,7,2,7,2020
+Flood,Serbia,5,24,0,2,2020
+Flood,Nepal,5,47,0,13,2020
+Flood,South Korea,5,12,2,3,2020
+Flood,Tunisia,5,12,0,11,2020
+Flood,Puerto Rico,5,36,0,5,2020
+Flood,Finland,5,12,0,0,2020
+Flood,Belgium,5,13,0,1,2020
+Flood,Jordan,5,9,3,6,2020
+Flood,Switzerland,5,15,0,1,2020
+Flood,Canada,5,71,0,3,2020
+Flood,Saint Helena Ascension and Tristan da Cunha,5,41,0,0,2020
+Flood,United Arab Emirates,5,20,2,6,2020
+Flood,India,5,24,0,12,2020
+Flood,Mexico,5,29,2,16,2020
+Flood,Nigeria,5,34,3,10,2020
+Flood,Venezuela,5,13,1,12,2020
+Flood,Indonesia,5,91,0,8,2020
+Desertification,Syria,5,7,7,5,2020
+Drought,Italy,5,4,1,1,2020
+Flood,Qatar,4,19,0,4,2020
+Flood,Philippines,4,39,1,9,2020
+Flood,Uruguay,4,23,0,3,2020
+Flood,Bosnia and Herzegovina,4,28,0,0,2020
+Flood,Slovenia,4,25,0,0,2020
+Flood,Ghana,4,31,0,10,2020
+Flood,Pakistan,4,14,1,6,2020
+Flood,Kuwait,4,11,3,4,2020
+Flood,Hong Kong,4,18,0,10,2020
+Flood,Singapore,4,49,0,4,2020
+Flood,Croatia,4,27,0,0,2020
+Flood,Chile,4,11,1,4,2020
+Flood,Thailand,4,61,0,3,2020
+Flood,United Kingdom,4,42,1,1,2020
+Flood,Colombia,3,19,1,8,2020
+Flood,Argentina,3,33,2,7,2020
+Flood,Egypt,3,9,1,4,2020
+Flood,Denmark,3,14,0,1,2020
+Flood,Dominican Republic,3,14,0,14,2020
+Flood,Malaysia,3,88,0,9,2020
+Flood,Netherlands,3,13,0,1,2020
+Flood,Ireland,3,47,0,2,2020
+Flood,Bangladesh,3,33,0,5,2020
+Flood,Austria,3,14,0,0,2020
+Flood,Vietnam,3,55,0,2,2020
+Flood,Slovakia,3,11,0,0,2020
+Flood,Germany,2,27,1,1,2020
+Flood,Romania,2,14,1,3,2020
+Flood,Iraq,2,9,2,2,2020
+Flood,Lithuania,2,13,0,0,2020
+Flood,Greece,2,16,0,0,2020
+Flood,Turkey,2,20,1,2,2020
+Flood,Hungary,2,9,0,1,2020
+Flood,Kazakhstan,2,11,0,2,2020
+Water pollution,Taiwan,1,8,0,11,2020
+Flood,Russia,1,11,0,1,2020
+Flood,Ukraine,1,4,0,0,2020
+Flood,Japan,1,15,0,1,2020
+Flood,Zambia,0,21,0,0,2020
+No data,Palestine,0,0,0,0,2020
+Flood,Bahrain,0,16,0,0,2020
+Flood,Belarus,0,5,0,0,2020
+Flood,Mauritius,0,39,0,0,2020
+Flood,Senegal,0,14,0,0,2020
+Flood,Trinidad and Tobago,0,97,0,21,2020
+Flood,Latvia,0,16,0,0,2020
+Flood,Reunion,0,14,0,0,2020
+Flood,Madagascar,0,22,0,0,2020
+Flood,Yemen,0,7,0,0,2020
+Flood,Bulgaria,0,15,0,0,2020
+Flood,Libya,0,9,0,0,2020
+Flood,Haiti,0,30,0,0,2020
+No data,Cuba,0,0,0,0,2020
+Flood,Burkina Faso,0,22,0,0,2020
+Flood,Cambodia,0,17,0,6,2020
+No data,Cape Verde,0,0,0,0,2020
+Flood,Côte d'Ivoire,0,14,0,0,2020
+Flood,Myanmar (Burma),0,20,0,9,2020
+Flood,Estonia,0,10,0,0,2020
+Flood,Malawi,0,45,0,0,2020
+Flood,Democratic Republic of the Congo,0,14,0,0,2020
+Flood,Azerbaijan,0,10,0,0,2020
+Flood,Afghanistan,0,24,0,0,2020
+No data,Benin,0,0,0,0,2020
+Flood,Cyprus,0,16,0,0,2020
+Flood,Albania,0,8,0,0,2020
+No data,Botswana,0,0,0,0,2020
+Flood,Guadeloupe,0,20,0,0,2020
+No data,Mali,0,0,0,0,2020
+Desertification,Niger,0,0,77,0,2020
+No data,Swaziland,0,0,0,0,2020
+No data,Papua New Guinea,0,0,0,0,2020
+Flood,Fiji,0,64,0,0,2020
+No data,Rwanda,0,0,0,0,2020
+No data,Martinique,0,0,0,0,2020
+No data,Lesotho,0,0,0,0,2020
+No data,Guinea,0,0,0,0,2020
+No data,New Caledonia,0,0,0,0,2020
+No data,Gabon,0,0,0,0,2020
+Flood,Georgia,0,9,0,0,2020
+No data,Togo,0,0,0,0,2020
+Flood,Barbados,0,43,0,0,2020
+Flood,Guyana,0,52,0,40,2020
+Flood,Montenegro,0,22,0,0,2020
+No data,Mauritania,0,0,0,0,2020
+Flood,The Bahamas,0,30,0,0,2020
+Flood,Malta,0,19,0,0,2020
+No data,Djibouti,0,0,0,0,2020
+Flood,Laos,0,30,0,0,2020
+Flood,Uzbekistan,0,6,0,0,2020
+Flood,Brunei,0,52,0,0,2020
+No data,French Guiana,0,0,0,0,2020
+No data,Antigua and Barbuda,0,0,0,0,2020
+Flood,Iceland,0,18,0,0,2020
+No data,Jersey,0,0,0,0,2020
+No data,Liberia,0,0,0,0,2020
+No data,Macau,0,0,0,0,2020
+No data,Maldives,0,0,0,0,2020
+No data,South Sudan,0,0,0,0,2020
+No data,Chad,0,0,0,0,2020
+No data,Burundi,0,0,0,0,2020
+No data,Bhutan,0,0,0,0,2020
+Flood,Macedonia (FYROM),0,18,0,0,2020
+No data,Guam,0,0,0,0,2020
+Flood,Sierra Leone,0,100,0,0,2020
+Drought,Portugal,88,12,1,3,2021
+Drought,Somalia,66,0,0,0,2021
+Drought,Brazil,53,17,1,3,2021
+Drought,Mozambique,47,39,0,0,2021
+Flood,Zimbabwe,29,47,0,16,2021
+Drought,Angola,28,17,0,0,2021
+Flood,Namibia,26,37,0,0,2021
+Drought,Israel,25,11,1,2,2021
+Flood,Ethiopia,23,27,0,12,2021
+Flood,South Africa,22,33,2,11,2021
+Flood,Norway,18,19,0,0,2021
+Flood,Bolivia,12,31,0,19,2021
+Flood,Cameroon,11,26,0,0,2021
+Flood,Kenya,11,20,2,4,2021
+Flood,Luxembourg,10,32,0,0,2021
+Flood,El Salvador,10,30,5,17,2021
+Flood,Algeria,10,17,7,10,2021
+Flood,Uganda,10,23,0,0,2021
+Flood,Honduras,9,25,0,10,2021
+Water pollution,Morocco,9,11,6,13,2021
+Flood,Costa Rica,9,26,0,6,2021
+Flood,Poland,9,13,0,1,2021
+Flood,Iran,8,40,0,3,2021
+Flood,Jamaica,8,54,0,15,2021
+Flood,Australia,8,87,1,3,2021
+Flood,France,8,28,0,1,2021
+Flood,China,7,24,0,9,2021
+Flood,Nicaragua,7,24,0,11,2021
+Flood,Panama,7,31,0,14,2021
+Flood,Peru,7,24,2,14,2021
+Flood,Sudan,7,11,5,6,2021
+Flood,Oman,88,18,7,10,2021
+Flood,Guatemala,66,19,0,16,2021
+Flood,Sri Lanka,53,45,0,5,2021
+Flood,United States,47,68,1,3,2021
+Flood,Spain,29,14,1,1,2021
+Flood,Ecuador,28,19,4,9,2021
+Flood,Paraguay,26,21,0,9,2021
+Water pollution,Lebanon,25,13,0,17,2021
+Flood,New Zealand,23,82,0,6,2021
+Flood,Sweden,22,10,0,0,2021
+Flood,Czech Republic,18,16,0,1,2021
+Flood,Moldova,12,11,0,6,2021
+Flood,Tanzania,11,25,0,8,2021
+Water pollution,Saudi Arabia,5,7,2,7,2021
+Flood,Serbia,5,24,0,2,2021
+Flood,Nepal,5,47,0,13,2021
+Flood,South Korea,5,12,2,3,2021
+Flood,Tunisia,5,12,0,11,2021
+Flood,Puerto Rico,5,36,0,5,2021
+Flood,Finland,5,12,0,0,2021
+Flood,Belgium,5,13,0,1,2021
+Flood,Jordan,5,9,3,6,2021
+Flood,Switzerland,5,15,0,1,2021
+Flood,Canada,5,71,0,3,2021
+Flood,Saint Helena Ascension and Tristan da Cunha,5,41,0,0,2021
+Flood,United Arab Emirates,5,20,2,6,2021
+Flood,India,5,24,0,12,2021
+Flood,Mexico,5,29,2,16,2021
+Flood,Nigeria,5,34,3,10,2021
+Flood,Venezuela,5,13,1,12,2021
+Flood,Indonesia,5,91,0,8,2021
+Desertification,Syria,5,7,7,5,2021
+Drought,Italy,5,4,1,1,2021
+Flood,Qatar,4,19,0,4,2021
+Flood,Philippines,4,39,1,9,2021
+Flood,Uruguay,4,23,0,3,2021
+Flood,Bosnia and Herzegovina,4,28,0,0,2021
+Flood,Slovenia,4,25,0,0,2021
+Flood,Ghana,4,31,0,10,2021
+Flood,Pakistan,4,14,1,6,2021
+Flood,Kuwait,4,11,3,4,2021
+Flood,Hong Kong,4,18,0,10,2021
+Flood,Singapore,4,49,0,4,2021
+Flood,Croatia,4,27,0,0,2021
+Flood,Chile,4,11,1,4,2021
+Flood,Thailand,4,61,0,3,2021
+Flood,United Kingdom,4,42,1,1,2021
+Flood,Colombia,3,19,1,8,2021
+Flood,Argentina,3,33,2,7,2021
+Flood,Egypt,3,9,1,4,2021
+Flood,Denmark,3,14,0,1,2021
+Flood,Dominican Republic,3,14,0,14,2021
+Flood,Malaysia,3,88,0,9,2021
+Flood,Netherlands,3,13,0,1,2021
+Flood,Ireland,3,47,0,2,2021
+Flood,Bangladesh,3,33,0,5,2021
+Flood,Austria,3,14,0,0,2021
+Flood,Vietnam,3,55,0,2,2021
+Flood,Slovakia,3,11,0,0,2021
+Flood,Germany,2,27,1,1,2021
+Flood,Romania,2,14,1,3,2021
+Flood,Iraq,2,9,2,2,2021
+Flood,Lithuania,2,13,0,0,2021
+Flood,Greece,2,16,0,0,2021
+Flood,Turkey,2,20,1,2,2021
+Flood,Hungary,2,9,0,1,2021
+Flood,Kazakhstan,2,11,0,2,2021
+Water pollution,Taiwan,1,8,0,11,2021
+Flood,Russia,1,11,0,1,2021
+Flood,Ukraine,1,4,0,0,2021
+Flood,Japan,1,15,0,1,2021
+Flood,Zambia,0,21,0,0,2021
+No data,Palestine,0,0,0,0,2021
+Flood,Bahrain,0,16,0,0,2021
+Flood,Belarus,0,5,0,0,2021
+Flood,Mauritius,0,39,0,0,2021
+Flood,Senegal,0,14,0,0,2021
+Flood,Trinidad and Tobago,0,97,0,21,2021
+Flood,Latvia,0,16,0,0,2021
+Flood,Reunion,0,14,0,0,2021
+Flood,Madagascar,0,22,0,0,2021
+Flood,Yemen,0,7,0,0,2021
+Flood,Bulgaria,0,15,0,0,2021
+Flood,Libya,0,9,0,0,2021
+Flood,Haiti,0,30,0,40,2021
+No data,Cuba,0,0,0,40,2021
+Flood,Burkina Faso,0,22,0,40,2021
+Flood,Cambodia,0,17,0,40,2021
+No data,Cape Verde,88,0,0,40,2021
+Flood,Côte d'Ivoire,66,14,0,40,2021
+Flood,Myanmar (Burma),53,20,0,40,2021
+Flood,Estonia,47,10,0,40,2021
+Flood,Malawi,29,45,0,40,2021
+Flood,Democratic Republic of the Congo,28,14,0,40,2021
+Flood,Azerbaijan,26,10,0,40,2021
+Flood,Afghanistan,25,24,0,40,2021
+No data,Benin,23,0,0,40,2021
+Flood,Cyprus,22,16,0,40,2021
+Flood,Albania,18,8,0,40,2021
+No data,Botswana,12,0,0,40,2021
+Flood,Guadeloupe,11,20,0,40,2021
+No data,Mali,0,0,0,40,2021
+Desertification,Niger,0,0,77,40,2021
+No data,Swaziland,0,0,0,40,2021
+No data,Papua New Guinea,0,0,0,40,2021
+Flood,Fiji,0,64,0,0,2021
+No data,Rwanda,0,0,0,0,2021
+No data,Martinique,0,0,0,0,2021
+No data,Lesotho,0,0,0,0,2021
+No data,Guinea,0,0,0,0,2021
+No data,New Caledonia,0,0,0,0,2021
+No data,Gabon,0,0,0,0,2021
+Flood,Georgia,0,9,0,0,2021
+No data,Togo,0,0,0,0,2021
+Flood,Barbados,0,43,0,0,2021
+Flood,Guyana,0,52,0,40,2021
+Flood,Montenegro,0,22,0,0,2021
+No data,Mauritania,0,0,0,0,2021
+Flood,The Bahamas,0,30,0,0,2021
+Flood,Malta,0,19,0,0,2021
+No data,Djibouti,0,0,0,0,2021
+Flood,Laos,0,30,0,0,2021
+Flood,Uzbekistan,0,6,0,0,2021
+Flood,Brunei,0,52,0,0,2021
+No data,French Guiana,0,0,0,0,2021
+No data,Antigua and Barbuda,0,0,0,0,2021
+Flood,Iceland,0,18,0,0,2021
+No data,Jersey,0,0,0,0,2021
+No data,Liberia,0,0,0,0,2021
+No data,Macau,0,0,0,0,2021
+No data,Maldives,0,0,0,0,2021
+No data,South Sudan,0,0,0,0,2021
+No data,Chad,0,0,0,0,2021
+No data,Burundi,0,0,0,0,2021
+No data,Bhutan,0,0,0,0,2021
+Flood,Macedonia (FYROM),0,18,0,0,2021
+No data,Guam,0,0,0,0,2021
+Flood,Sierra Leone,0,100,0,0,2021
+Drought,Portugal,88,12,1,3,2022
+Drought,Somalia,66,0,0,0,2022
+Drought,Brazil,53,17,1,3,2022
+Drought,Mozambique,47,39,0,0,2022
+Flood,Zimbabwe,29,47,0,16,2022
+Drought,Angola,28,17,0,0,2022
+Flood,Namibia,26,37,0,0,2022
+Drought,Israel,25,11,1,2,2022
+Flood,Ethiopia,23,27,0,12,2022
+Flood,South Africa,22,33,2,11,2022
+Flood,Norway,18,19,0,0,2022
+Flood,Bolivia,12,31,0,19,2022
+Flood,Cameroon,11,26,0,0,2022
+Flood,Kenya,11,20,2,4,2022
+Flood,Luxembourg,10,32,0,0,2022
+Flood,El Salvador,10,30,5,17,2022
+Flood,Algeria,10,17,7,10,2022
+Flood,Uganda,88,23,0,0,2022
+Flood,Honduras,66,25,0,10,2022
+Water pollution,Morocco,53,11,6,13,2022
+Flood,Costa Rica,47,26,0,6,2022
+Flood,Poland,29,13,0,1,2022
+Flood,Iran,28,40,0,3,2022
+Flood,Jamaica,26,54,0,15,2022
+Flood,Australia,25,87,1,3,2022
+Flood,France,23,28,0,1,2022
+Flood,China,22,24,0,9,2022
+Flood,Nicaragua,18,24,0,11,2022
+Flood,Panama,12,31,0,14,2022
+Flood,Peru,11,24,2,14,2022
+Flood,Sudan,7,11,5,6,2022
+Flood,Oman,7,18,7,10,2022
+Flood,Guatemala,6,19,0,16,2022
+Flood,Sri Lanka,6,45,0,5,2022
+Flood,United States,6,68,1,3,2022
+Flood,Spain,6,14,1,1,2022
+Flood,Ecuador,6,19,4,9,2022
+Flood,Paraguay,6,21,3,9,2022
+Water pollution,Lebanon,6,13,3,17,2022
+Flood,New Zealand,6,82,3,6,2022
+Flood,Sweden,6,82,3,0,2022
+Flood,Czech Republic,6,82,3,1,2022
+Flood,Moldova,6,82,3,6,2022
+Flood,Tanzania,5,82,0,8,2022
+Water pollution,Saudi Arabia,5,82,2,7,2022
+Flood,Serbia,5,82,0,2,2022
+Flood,Nepal,5,82,0,13,2022
+Flood,South Korea,5,82,2,3,2022
+Flood,Tunisia,5,82,0,11,2022
+Flood,Puerto Rico,5,36,0,5,2022
+Flood,Finland,5,12,0,0,2022
+Flood,Belgium,88,13,0,1,2022
+Flood,Jordan,66,9,3,6,2022
+Flood,Switzerland,53,15,0,1,2022
+Flood,Canada,47,71,0,3,2022
+Flood,Saint Helena Ascension and Tristan da Cunha,29,41,0,0,2022
+Flood,United Arab Emirates,28,20,2,6,2022
+Flood,India,26,24,0,12,2022
+Flood,Mexico,25,29,2,16,2022
+Flood,Nigeria,23,34,3,10,2022
+Flood,Venezuela,22,13,1,12,2022
+Flood,Indonesia,18,91,0,8,2022
+Desertification,Syria,12,7,7,5,2022
+Drought,Italy,11,4,1,1,2022
+Flood,Qatar,88,19,0,4,2022
+Flood,Philippines,66,39,1,9,2022
+Flood,Uruguay,53,23,0,3,2022
+Flood,Bosnia and Herzegovina,47,28,0,0,2022
+Flood,Slovenia,29,25,0,0,2022
+Flood,Ghana,28,31,0,10,2022
+Flood,Pakistan,26,14,1,6,2022
+Flood,Kuwait,25,11,3,4,2022
+Flood,Hong Kong,23,18,0,10,2022
+Flood,Singapore,22,49,0,4,2022
+Flood,Croatia,18,27,0,0,2022
+Flood,Chile,12,11,1,4,2022
+Flood,Thailand,11,61,0,3,2022
+Flood,United Kingdom,4,42,1,1,2022
+Flood,Colombia,3,19,1,8,2022
+Flood,Argentina,3,33,2,7,2022
+Flood,Egypt,3,9,1,4,2022
+Flood,Denmark,3,14,0,1,2022
+Flood,Dominican Republic,3,14,0,14,2022
+Flood,Malaysia,3,88,0,9,2022
+Flood,Netherlands,3,13,0,1,2022
+Flood,Ireland,3,47,0,2,2022
+Flood,Bangladesh,3,33,0,5,2022
+Flood,Austria,3,14,0,0,2022
+Flood,Vietnam,3,55,0,2,2022
+Flood,Slovakia,3,11,0,0,2022
+Flood,Germany,2,27,1,1,2022
+Flood,Romania,2,14,1,3,2022
+Flood,Iraq,2,9,2,2,2022
+Flood,Lithuania,2,13,0,0,2022
+Flood,Greece,2,16,0,0,2022
+Flood,Turkey,2,20,1,2,2022
+Flood,Hungary,2,9,0,1,2022
+Flood,Kazakhstan,2,11,0,2,2022
+Water pollution,Taiwan,1,8,0,11,2022
+Flood,Russia,1,11,0,1,2022
+Flood,Ukraine,1,4,0,0,2022
+Flood,Japan,1,15,0,1,2022
+Flood,Zambia,0,21,0,0,2022
+No data,Palestine,0,0,0,0,2022
+Flood,Bahrain,0,16,0,0,2022
+Flood,Belarus,0,5,0,0,2022
+Flood,Mauritius,0,39,0,0,2022
+Flood,Senegal,0,14,0,0,2022
+Flood,Trinidad and Tobago,0,97,0,21,2022
+Flood,Latvia,0,16,0,0,2022
+Flood,Reunion,0,14,0,0,2022
+Flood,Madagascar,0,22,0,0,2022
+Flood,Yemen,0,7,0,0,2022
+Flood,Bulgaria,0,15,0,0,2022
+Flood,Libya,0,9,0,0,2022
+Flood,Haiti,0,30,0,0,2022
+No data,Cuba,0,0,0,0,2022
+Flood,Burkina Faso,0,22,0,0,2022
+Flood,Cambodia,0,17,0,6,2022
+No data,Cape Verde,0,0,0,0,2022
+Flood,Côte d'Ivoire,0,14,0,0,2022
+Flood,Myanmar (Burma),0,20,0,9,2022
+Flood,Estonia,0,10,0,0,2022
+Flood,Malawi,0,45,0,0,2022
+Flood,Democratic Republic of the Congo,0,14,0,0,2022
+Flood,Azerbaijan,0,10,0,0,2022
+Flood,Afghanistan,0,24,0,0,2022
+No data,Benin,0,0,0,0,2022
+Flood,Cyprus,0,16,0,0,2022
+Flood,Albania,0,8,0,0,2022
+No data,Botswana,0,0,0,0,2022
+Flood,Guadeloupe,0,20,0,0,2022
+No data,Mali,0,0,0,0,2022
+Desertification,Niger,0,0,77,0,2022
+No data,Swaziland,0,0,0,0,2022
+No data,Papua New Guinea,0,0,0,0,2022
+Flood,Fiji,0,64,0,0,2022
+No data,Rwanda,0,0,0,0,2022
+No data,Martinique,0,0,0,0,2022
+No data,Lesotho,0,0,0,0,2022
+No data,Guinea,0,0,0,0,2022
+No data,New Caledonia,0,0,0,0,2022
+No data,Gabon,0,0,0,0,2022
+Flood,Georgia,0,9,0,0,2022
+No data,Togo,0,0,0,0,2022
+Flood,Barbados,0,43,0,0,2022
+Flood,Guyana,0,52,0,40,2022
+Flood,Montenegro,0,22,0,0,2022
+No data,Mauritania,0,0,0,0,2022
+Flood,The Bahamas,0,30,0,0,2022
+Flood,Malta,0,19,0,0,2022
+No data,Djibouti,0,0,0,0,2022
+Flood,Laos,0,30,0,0,2022
+Flood,Uzbekistan,0,6,0,0,2022
+Flood,Brunei,0,52,0,0,2022
+No data,French Guiana,0,0,0,0,2022
+No data,Antigua and Barbuda,0,0,0,0,2022
+Flood,Iceland,0,18,0,0,2022
+No data,Jersey,0,0,0,0,2022
+No data,Liberia,0,0,0,0,2022
+No data,Macau,0,0,0,0,2022
+No data,Maldives,0,0,0,0,2022
+No data,South Sudan,0,0,0,0,2022
+No data,Chad,0,0,0,0,2022
+No data,Burundi,0,0,0,0,2022
+No data,Bhutan,0,0,0,0,2022
+Flood,Macedonia (FYROM),0,18,0,0,2022
+No data,Guam,0,0,0,0,2022
+Flood,Sierra Leone,0,100,0,0,2022
+Drought,Portugal,88,12,1,3,2023
+Drought,Somalia,66,0,0,0,2023
+Drought,Brazil,53,17,1,3,2023
+Drought,Mozambique,47,39,0,0,2023
+Flood,Zimbabwe,29,47,0,16,2023
+Drought,Angola,28,17,0,0,2023
+Flood,Namibia,26,37,0,0,2023
+Drought,Israel,25,11,1,2,2023
+Flood,Ethiopia,23,27,0,12,2023
+Flood,South Africa,22,33,2,11,2023
+Flood,Norway,18,19,0,0,2023
+Flood,Bolivia,12,31,0,19,2023
+Flood,Cameroon,11,26,0,0,2023
+Flood,Kenya,11,20,2,4,2023
+Flood,Luxembourg,10,32,0,0,2023
+Flood,El Salvador,10,30,5,17,2023
+Flood,Algeria,10,17,7,10,2023
+Flood,Uganda,10,23,0,0,2023
+Flood,Honduras,9,25,0,10,2023
+Water pollution,Morocco,9,11,6,13,2023
+Flood,Costa Rica,9,26,0,6,2023
+Flood,Poland,9,13,0,1,2023
+Flood,Iran,8,40,0,3,2023
+Flood,Jamaica,8,54,0,15,2023
+Flood,Australia,8,87,1,3,2023
+Flood,France,8,28,0,1,2023
+Flood,China,7,24,0,9,2023
+Flood,Nicaragua,7,24,0,11,2023
+Flood,Panama,7,31,0,14,2023
+Flood,Peru,7,24,2,14,2023
+Flood,Sudan,7,11,5,6,2023
+Flood,Oman,7,18,7,10,2023
+Flood,Guatemala,6,19,0,16,2023
+Flood,Sri Lanka,6,45,0,5,2023
+Flood,United States,6,68,1,3,2023
+Flood,Spain,6,14,1,1,2023
+Flood,Ecuador,6,19,4,9,2023
+Flood,Paraguay,6,21,0,9,2023
+Water pollution,Lebanon,6,13,0,17,2023
+Flood,New Zealand,6,82,0,6,2023
+Flood,Sweden,6,10,0,0,2023
+Flood,Czech Republic,6,16,0,1,2023
+Flood,Moldova,6,11,0,6,2023
+Flood,Tanzania,5,25,0,8,2023
+Water pollution,Saudi Arabia,88,7,2,7,2023
+Flood,Serbia,66,24,0,2,2023
+Flood,Nepal,53,47,0,13,2023
+Flood,South Korea,47,12,2,3,2023
+Flood,Tunisia,29,12,0,11,2023
+Flood,Puerto Rico,28,36,0,5,2023
+Flood,Finland,26,12,0,0,2023
+Flood,Belgium,25,13,0,1,2023
+Flood,Jordan,23,9,3,6,2023
+Flood,Switzerland,22,15,0,1,2023
+Flood,Canada,18,71,0,3,2023
+Flood,Saint Helena Ascension and Tristan da Cunha,12,41,0,0,2023
+Flood,United Arab Emirates,11,20,2,6,2023
+Flood,India,5,24,0,12,2023
+Flood,Mexico,5,29,2,16,2023
+Flood,Nigeria,5,34,3,10,2023
+Flood,Venezuela,5,13,1,12,2023
+Flood,Indonesia,88,91,0,8,2023
+Desertification,Syria,66,7,7,5,2023
+Drought,Italy,53,4,1,1,2023
+Flood,Qatar,47,19,0,4,2023
+Flood,Philippines,29,39,1,9,2023
+Flood,Uruguay,28,23,0,3,2023
+Flood,Bosnia and Herzegovina,26,28,0,0,2023
+Flood,Slovenia,25,25,0,0,2023
+Flood,Ghana,23,31,0,10,2023
+Flood,Pakistan,22,14,1,6,2023
+Flood,Kuwait,18,11,3,4,2023
+Flood,Hong Kong,12,18,0,10,2023
+Flood,Singapore,11,49,0,4,2023
+Flood,Croatia,4,27,0,0,2023
+Flood,Chile,4,11,1,4,2023
+Flood,Thailand,4,61,0,3,2023
+Flood,United Kingdom,4,42,1,1,2023
+Flood,Colombia,3,19,1,8,2023
+Flood,Argentina,3,33,2,7,2023
+Flood,Egypt,3,9,1,4,2023
+Flood,Denmark,3,14,0,1,2023
+Flood,Dominican Republic,3,14,0,14,2023
+Flood,Malaysia,3,88,0,9,2023
+Flood,Netherlands,3,13,0,1,2023
+Flood,Ireland,3,47,0,2,2023
+Flood,Bangladesh,3,33,0,5,2023
+Flood,Austria,3,14,0,0,2023
+Flood,Vietnam,3,55,0,2,2023
+Flood,Slovakia,3,11,0,0,2023
+Flood,Germany,2,27,1,1,2023
+Flood,Romania,2,14,1,3,2023
+Flood,Iraq,2,9,2,2,2023
+Flood,Lithuania,2,13,0,0,2023
+Flood,Greece,2,16,0,0,2023
+Flood,Turkey,2,20,1,2,2023
+Flood,Hungary,2,9,0,1,2023
+Flood,Kazakhstan,2,11,0,2,2023
+Water pollution,Taiwan,1,8,0,11,2023
+Flood,Russia,1,11,0,1,2023
+Flood,Ukraine,1,4,0,0,2023
+Flood,Japan,1,15,0,1,2023
+Flood,Zambia,0,21,0,0,2023
+No data,Palestine,0,0,0,0,2023
+Flood,Bahrain,0,16,0,0,2023
+Flood,Belarus,0,5,0,0,2023
+Flood,Mauritius,0,39,0,0,2023
+Flood,Senegal,0,14,0,0,2023
+Flood,Trinidad and Tobago,88,97,0,21,2023
+Flood,Latvia,66,16,0,0,2023
+Flood,Reunion,53,14,0,0,2023
+Flood,Madagascar,47,22,0,0,2023
+Flood,Yemen,29,7,0,0,2023
+Flood,Bulgaria,28,15,0,0,2023
+Flood,Libya,26,9,0,0,2023
+Flood,Haiti,25,30,0,0,2023
+No data,Cuba,23,0,0,0,2023
+Flood,Burkina Faso,22,22,0,0,2023
+Flood,Cambodia,18,17,0,6,2023
+No data,Cape Verde,12,0,0,0,2023
+Flood,Côte d'Ivoire,11,14,0,0,2023
+Flood,Myanmar (Burma),0,20,0,9,2023
+Flood,Estonia,0,10,0,0,2023
+Flood,Malawi,0,45,0,0,2023
+Flood,Democratic Republic of the Congo,0,14,0,0,2023
+Flood,Azerbaijan,0,10,0,0,2023
+Flood,Afghanistan,0,24,0,0,2023
+No data,Benin,0,0,0,0,2023
+Flood,Cyprus,0,16,0,0,2023
+Flood,Albania,0,8,0,0,2023
+No data,Botswana,0,0,0,0,2023
+Flood,Guadeloupe,0,20,0,0,2023
+No data,Mali,0,0,0,0,2023
+Desertification,Niger,0,21,77,0,2023
+No data,Swaziland,0,0,0,0,2023
+No data,Papua New Guinea,0,16,0,0,2023
+Flood,Fiji,0,5,0,0,2023
+No data,Rwanda,0,39,0,0,2023
+No data,Martinique,0,14,0,0,2023
+No data,Lesotho,0,97,0,0,2023
+No data,Guinea,0,16,0,0,2023
+No data,New Caledonia,0,14,0,0,2023
+No data,Gabon,0,22,0,0,2023
+Flood,Georgia,0,7,0,0,2023
+No data,Togo,0,0,0,0,2023
+Flood,Barbados,0,43,0,0,2023
+Flood,Guyana,0,52,0,40,2023
+Flood,Montenegro,0,22,0,0,2023
+No data,Mauritania,0,0,0,0,2023
+Flood,The Bahamas,0,30,0,0,2023
+Flood,Malta,0,19,0,0,2023
+No data,Djibouti,0,0,0,0,2023
+Flood,Laos,0,30,0,0,2023
+Flood,Uzbekistan,0,6,0,0,2023
+Flood,Brunei,0,52,0,0,2023
+No data,French Guiana,0,0,0,0,2023
+No data,Antigua and Barbuda,0,21,0,0,2023
+Flood,Iceland,0,0,0,0,2023
+No data,Jersey,0,16,0,0,2023
+No data,Liberia,0,5,0,0,2023
+No data,Macau,0,39,0,0,2023
+No data,Maldives,0,14,0,0,2023
+No data,South Sudan,0,97,0,0,2023
+No data,Chad,0,16,0,0,2023
+No data,Burundi,0,14,0,0,2023
+No data,Bhutan,0,22,0,0,2023
+Flood,Macedonia (FYROM),0,7,0,0,2023
+No data,Guam,0,0,0,0,2023
+Flood,Sierra Leone,0,100,0,0,2023
